@@ -2,7 +2,7 @@
 
  In this notebook,We are going to build a model using CNN and Deep Learning techniques , that can detecte if the plant has a desease or not and the name of the disease as well ,the model is trained on Pepper , Tomato and Potato diseases images ..
 
-![Interface](project_images/Projet.png)
+![Interface](project_images/projet.png)
 
 ## Overview
 
